@@ -1,0 +1,86 @@
+.buts{
+    background-color: orange ;
+}
+.banner{
+    background-image: url('https://p1.pxfuel.com/preview/609/31/660/bokeh-lights-background-golden-abstract-festive.jpg');
+    background-size: cover;
+    height: 100vh;
+    
+}
+.inside{
+    background-color: rgba(0, 0,0,0.5);
+    height: 100vh;
+}
+.val{
+    color: orange;
+
+    
+}
+.rn{
+    color: black;
+    font-size: 100;
+}
+
+    .gol{
+        margin-top: -70px;
+    }
+.toj{
+    
+    width: 70px;
+    height: 70px;
+}
+.oar{
+    color: orange;
+    padding-top: 40px;
+}
+.hoy{
+    border-bottom:1px dashed grey ;
+}
+.orn{
+    color:orangered;
+    line-height: 10px;
+}
+.orng{
+    color:orangered;
+    margin-left: 310px;
+    
+}
+.ort{
+    margin-top: -35px;
+    color:white;
+}
+.orf{
+    color: orangered;
+    
+
+    margin-top: -60px;
+    margin-left: 310px;
+}
+.hd{
+    color:orange;
+    font-size: 100px;
+}
+.ory{
+    border-bottom: 1px solid grey !important;
+}
+
+.good{
+    margin-top:150px ;
+    margin-bottom: 100px;
+}
+.free{
+    margin-top:70px;
+}
+.cards :hover{
+    transition: 1sec ;
+    margin-top: -5px;
+
+    cursor: pointer;
+
+}
+.kk{
+    color: orange;
+}
+.area{
+ width:330px;
+}
